@@ -1,4 +1,4 @@
-// alert(`Welcome to Drey Portfolio `);
+alert(`Welcome to Drey Portfolio `);
 
 let header = document.querySelector("#header");
 let profile = document.querySelector("displayMain");
